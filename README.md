@@ -198,6 +198,5 @@ $env:TMDB_API_KEY="YOUR_TMDB_API_KEY"
 - Add automated tests for data loading and recommendation outputs.
 
 ## 📄 License
-This project is licensed under the **MIT License**.  
-See `LICENSE/MIT_LICENSE.txt` for details.
+This project is licensed under the **MIT License**.
 
