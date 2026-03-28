@@ -78,13 +78,23 @@ Training and preprocessing live in **`notebooks/Movie_Recommender_System.ipynb`*
 ```text
 Movie Recommender System/
 ├── app.py
+├── MIT_LICENSE.txt
 ├── README.md
 ├── requirements.txt
-├── MIT_LICENSE.txt
-├── .gitignore
 ├── .gitattributes
+├── .gitignore
 ├── .devcontainer/
 │   └── devcontainer.json
+├── .idea/
+│   ├── .gitignore
+│   ├── Movies Recommender System.iml
+│   ├── misc.xml
+│   ├── modules.xml
+│   ├── vcs.xml
+│   ├── dictionaries/
+│   │   └── project.xml
+│   └── inspectionProfiles/
+│       └── profiles_settings.xml
 ├── data/
 │   ├── tmdb_5000_credits.txt
 │   └── tmdb_5000_movies.txt
@@ -173,4 +183,4 @@ Wire the key in code in place of the literal string when you implement this.
 - Automated tests for data loading and recommendation outputs.
 
 ## License
-This project is licensed under the **MIT License.**
+This project is licensed under the **MIT License**.
