@@ -3,7 +3,7 @@ import pickle
 import requests
 import os
 
-BASE_DIR = r"C:\Users\Acer\Desktop\Movie Recommender System\models"
+BASE_DIR = os.path.join(os.path.dirname(__file__), "models")
 
 @st.cache_data
 def load_data():
